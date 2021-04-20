@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="968c3b6b-a682-4bd1-b6b4-80affee217f2" name="Dev1" url="http://one.dev.flarandr.de/">
+        <fileTransfer rootFolder="/var/www/dev1" accessType="SFTP" host="51.75.76.26" port="22" sshConfigId="133d804a-2781-4b89-b620-4acd6603d39d" sshConfig="www-alex@51.75.76.26:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
